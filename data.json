@@ -20,11 +20,11 @@
       "seoDescription": "Elarabet bonuses, live casino, slots, fast crypto payments, VIP cashback of up to 15 per cent and mobile access via PWA.",
       "htmlHead": "<meta name=\"google-site-verification\" content=\"0rucWrAFKK416eNyWK1M23KnEG7hCq-vCUnpc4dyRz0\" />\n<link rel=\"canonical\" href=\"https://crocoreel-casino.co.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://crocoreel-casino.co.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://crocoreel-casino.co.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"CrocoReel Casino UK | Play Top Slots & Live Dealers\">\n<meta property=\"og:description\" content=\"Welcome to CrocoReel Casino. Explore thousands of online slots, live dealer tables, fast payouts in GBP, and an exclusive welcome offer for GB players.\">\n<meta property=\"og:url\" content=\"crocoreel-casino.co.uk\">\n<meta property=\"og:site_name\" content= \"CrocoReel Casino\">\n",
       "gptPrompt": "",
-      "heroTitle": "CrocoReel Casino",
-      "heroSubtitle": "EVERY SPIN IS A BIG WIN",
-      "heroBadge": "CrocoReel - Big Bonuses Inside",
+      "heroTitle": "Elarabet Casino",
+      "heroSubtitle": "Welcome Pack",
+      "heroBadge": "Elarabet top Casino in UK",
       "ctaText": "CLAIM",
-      "tagline": "Welcome Pack 100% up to €1,500",
+      "tagline": "100% up to €1,500",
       "heroImage": "/uploads/0e0d13a0ffe77e4b9735abc57ba98b50.webp",
       "template": "homepage",
       "isHomepage": false,
@@ -97,14 +97,14 @@
       "globalReviewSet": null,
       "popup_text": "Welcome Pack 100% up to €1,500",
       "popup_logo": "/uploads/90f138980ca9ebfba9f82242c81f256b.webp",
-      "hero_title": "CrocoReel Casino",
-      "hero_subtitle": "EVERY SPIN IS A BIG WIN",
+      "hero_title": "Elarabet Casino",
+      "hero_subtitle": "Welcome Pack",
       "hero_image": "/uploads/0e0d13a0ffe77e4b9735abc57ba98b50.webp",
       "seo_title": "Elarabet Casino UK | Welcome Pack 100% up to €1,500",
       "seo_description": "Elarabet bonuses, live casino, slots, fast crypto payments, VIP cashback of up to 15 per cent and mobile access via PWA.",
       "html_head": "<meta name=\"google-site-verification\" content=\"0rucWrAFKK416eNyWK1M23KnEG7hCq-vCUnpc4dyRz0\" />\n<link rel=\"canonical\" href=\"https://crocoreel-casino.co.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://crocoreel-casino.co.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://crocoreel-casino.co.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"CrocoReel Casino UK | Play Top Slots & Live Dealers\">\n<meta property=\"og:description\" content=\"Welcome to CrocoReel Casino. Explore thousands of online slots, live dealer tables, fast payouts in GBP, and an exclusive welcome offer for GB players.\">\n<meta property=\"og:url\" content=\"crocoreel-casino.co.uk\">\n<meta property=\"og:site_name\" content= \"CrocoReel Casino\">\n",
       "faq_title": "FAQ",
-      "hero_badge": "CrocoReel - Big Bonuses Inside",
+      "hero_badge": "Elarabet top Casino in UK",
       "cta_text": "CLAIM",
       "heroImage_alt": "elarabet casino banner",
       "popupLogo_alt": "elarabet casino logo",
@@ -118,53 +118,53 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "Is CrocoReel Casino licensed for GB players?",
+        "name": "Do I need to activate my Elarabet VIP level separately after reaching a new status?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes, CrocoReel Casino operates legally under UKGC Licence No. 000-039123-R-319326-001, strictly following UK gaming regulations."
+          "text": "No. Your VIP progress on Elarabet is updated automatically after completed rounds, provided your bets meet the programme’s conditions. Users can view their accumulated points and current level in their profile, and the reward for the new status is credited automatically without the need for a separate request."
         }
       },
       {
         "@type": "Question",
-        "name": "What is the minimum deposit limit at CrocoReel?  ",
+        "name": "What happens to the Elarabet bonus if I don’t manage to meet the wagering requirements within 7 days?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "The minimum deposit amount across standard payment options, including Visa Debit, Mastercard Debit, PayPal, and Trustly, is £10."
+          "text": "Bonus funds have a limited validity period of 7 days from the date they are credited. If the wagering requirements are not met within this period, the remaining bonus may be forfeited in accordance with the terms of the specific promotion. Before activation, it is advisable to check the bet limit (€5 during wagering), the 40x wagering requirement and other restrictions."
         }
       },
       {
         "@type": "Question",
-        "name": "How quickly does CrocoReel process withdrawal requests? ",
+        "name": "Can I change the currency of my Elarabet account after making my first deposit?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "E-wallet payouts via PayPal and instant bank transfers via Trustly are usually processed within 24 hours after account verification. Standard debit card withdrawals take between 1 and 3 working days."
+          "text": "No, once you’ve made your first successful transaction, you cannot change your account’s primary currency. Therefore, when registering, you should immediately select the currency in which you intend to manage your balance – EUR, GBP or one of the supported cryptocurrencies."
         }
       },
       {
         "@type": "Question",
-        "name": "Do I need to download an application to play on mobile?  ",
+        "name": "Why might Elarabet request KYC specifically when withdrawing funds, if the deposit has already gone through?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "No, CrocoReel Casino works entirely through your mobile web browser. You do not need to install additional applications to access the full game catalogue."
+          "text": "KYC may be required not only when creating an account, but also before the first withdrawal or after changing the payment method. Verification is required to confirm your identity, protect your payment profile and comply with AML requirements. You can track the status of your document verification directly in your account."
         }
       },
       {
         "@type": "Question",
-        "name": "What games can I play with my welcome free spins? ",
+        "name": " Do Elarabet’s VIP progress and bonuses work the same way on a mobile and a computer?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": " Welcome spins at CrocoReel are typically designated for selected popular titles, such as Big Bass Bonanza. Detailed game eligibility is listed within the offer terms upon registration."
+          "text": "Yes, the PWA version uses the same account, balance and bonus system as the desktop version. Users can view their VIP progress, activate offers, manage payments, set limits and play slots or live casino games from their mobile device without having to create a separate profile."
         }
       }
     ]
   },
   "seo_description": "Elarabet bonuses, live casino, slots, fast crypto payments, VIP cashback of up to 15 per cent and mobile access via PWA.",
   "redirect_site": null,
-  "hero_title": "CrocoReel Casino",
-  "hero_subtitle": "EVERY SPIN IS A BIG WIN",
-  "hero_badge": "CrocoReel - Big Bonuses Inside",
+  "hero_title": "Elarabet Casino",
+  "hero_subtitle": "Welcome Pack",
+  "hero_badge": "Elarabet top Casino in UK",
   "cta_text": "CLAIM",
-  "tagline": "Welcome Pack 100% up to €1,500",
+  "tagline": "100% up to €1,500",
   "features_list": null,
   "footer_text": "© 2026. Elarabet Casino. All rights reserved",
   "popup_text": "Welcome Pack 100% up to €1,500",
@@ -172,7 +172,7 @@
   "login_text": "Login",
   "register_text": "Sign Up",
   "slots_title": "Top Slots at Elarabet Casino",
-  "bonus_title": "Bonuses and Promotions ",
+  "bonus_title": "Popular Promotions ",
   "get_bonus_btn_text": "Get Bonus",
   "redirect_link": "/play/",
   "home_name": "Elarabet Casino",
@@ -357,28 +357,28 @@
   "Reviews": null,
   "FAQ": [
     {
-      "answer": "Yes, CrocoReel Casino operates legally under UKGC Licence No. 000-039123-R-319326-001, strictly following UK gaming regulations.",
-      "question": "Is CrocoReel Casino licensed for GB players?"
+      "answer": "No. Your VIP progress on Elarabet is updated automatically after completed rounds, provided your bets meet the programme’s conditions. Users can view their accumulated points and current level in their profile, and the reward for the new status is credited automatically without the need for a separate request.",
+      "question": "Do I need to activate my Elarabet VIP level separately after reaching a new status?"
     },
     {
-      "answer": "The minimum deposit amount across standard payment options, including Visa Debit, Mastercard Debit, PayPal, and Trustly, is £10.",
-      "question": "What is the minimum deposit limit at CrocoReel?  "
+      "answer": "Bonus funds have a limited validity period of 7 days from the date they are credited. If the wagering requirements are not met within this period, the remaining bonus may be forfeited in accordance with the terms of the specific promotion. Before activation, it is advisable to check the bet limit (€5 during wagering), the 40x wagering requirement and other restrictions.",
+      "question": "What happens to the Elarabet bonus if I don’t manage to meet the wagering requirements within 7 days?"
     },
     {
-      "answer": "E-wallet payouts via PayPal and instant bank transfers via Trustly are usually processed within 24 hours after account verification. Standard debit card withdrawals take between 1 and 3 working days.",
-      "question": "How quickly does CrocoReel process withdrawal requests? "
+      "answer": "No, once you’ve made your first successful transaction, you cannot change your account’s primary currency. Therefore, when registering, you should immediately select the currency in which you intend to manage your balance – EUR, GBP or one of the supported cryptocurrencies.",
+      "question": "Can I change the currency of my Elarabet account after making my first deposit?"
     },
     {
-      "answer": "No, CrocoReel Casino works entirely through your mobile web browser. You do not need to install additional applications to access the full game catalogue.",
-      "question": "Do I need to download an application to play on mobile?  "
+      "answer": "KYC may be required not only when creating an account, but also before the first withdrawal or after changing the payment method. Verification is required to confirm your identity, protect your payment profile and comply with AML requirements. You can track the status of your document verification directly in your account.",
+      "question": "Why might Elarabet request KYC specifically when withdrawing funds, if the deposit has already gone through?"
     },
     {
-      "answer": " Welcome spins at CrocoReel are typically designated for selected popular titles, such as Big Bass Bonanza. Detailed game eligibility is listed within the offer terms upon registration.",
-      "question": "What games can I play with my welcome free spins? "
+      "answer": "Yes, the PWA version uses the same account, balance and bonus system as the desktop version. Users can view their VIP progress, activate offers, manage payments, set limits and play slots or live casino games from their mobile device without having to create a separate profile.",
+      "question": " Do Elarabet’s VIP progress and bonuses work the same way on a mobile and a computer?"
     }
   ],
-  "_generated_at": "2026-09-25T14:40:48.851Z",
+  "_generated_at": "2026-09-25T14:44:35.625Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-25T14:40:49.566Z",
-  "_deploy_trigger": "538y7"
+  "_last_deploy": "2026-09-25T14:44:36.209Z",
+  "_deploy_trigger": "64b6oq"
 }
