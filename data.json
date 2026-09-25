@@ -276,16 +276,6 @@
   ],
   "footer_images": [
     {
-      "link": "https://www.gambleaware.org/",
-      "image": "/uploads/7b5af286adade20c01b9aee4e0251787.webp",
-      "image_alt": "be gamble aware"
-    },
-    {
-      "link": "https://www.gamcare.org.uk/",
-      "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
-      "image_alt": "gamcare"
-    },
-    {
       "link": "/play/",
       "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
       "image_alt": "visa"
@@ -377,8 +367,8 @@
       "question": " Do Elarabet’s VIP progress and bonuses work the same way on a mobile and a computer?"
     }
   ],
-  "_generated_at": "2026-09-25T14:47:35.652Z",
+  "_generated_at": "2026-09-25T14:48:48.780Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-25T14:47:36.230Z",
-  "_deploy_trigger": "c7cwyj"
+  "_last_deploy": "2026-09-25T14:48:49.367Z",
+  "_deploy_trigger": "31r41"
 }
